@@ -1,9 +1,5 @@
-pip install google-generativeai    # Gemini API
-pip install rembg                  # background removal
-pip install ftfy regex tqdm        # CLIP dependencies
-pip install git+https://github.com/openai/CLIP.git
-pip install faiss-cpu              # similarity search
-pip install langchain              # agent orchestration
-pip install streamlit              # UI
-pip install Pillow requests        # utilities
-pip install python-dotenv
+google-generativeai==0.8.3
+streamlit==1.41.1
+Pillow==10.4.0
+requests==2.32.3
+python-dotenv==1.0.1
