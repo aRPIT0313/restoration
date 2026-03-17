@@ -1,0 +1,28 @@
+# environment variables - never push this
+.env
+
+# virtual environment
+venv/
+env/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# outputs folder - contains downloaded images
+outputs/
+
+# temp files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
