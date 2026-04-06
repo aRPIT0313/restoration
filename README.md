@@ -217,6 +217,9 @@ Pull requests are welcome. For major changes please open an issue first to discu
 
 ---
 
+## Results
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/murti/image_upload.png)
+
 <p align="center">
 Made with ❤️ for Heritage Preservation
 </p>
