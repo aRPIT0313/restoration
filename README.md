@@ -218,7 +218,10 @@ Pull requests are welcome. For major changes please open an issue first to discu
 ---
 
 ## Results
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/murti/murti_home.png)
 ![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/murti/image_upload.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/murti/murti_reference.png)
+![Output](https://raw.githubusercontent.com/aRPIT0313/images/main/murti/murti_guidance.png)
 
 <p align="center">
 Made with ❤️ for Heritage Preservation
