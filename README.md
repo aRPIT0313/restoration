@@ -170,7 +170,7 @@ No other API keys required. Reference image search uses DuckDuckGo and Wikimedia
 
 ## 🌐 Live Demo
 
-🔗 [murti-restoration.streamlit.app](https://murti-restoration.streamlit.app)
+🔗 [murti-restoration.streamlit.app](https://restoration-krs4raf2gq2rxrqvytulfj.streamlit.app/)
 
 ---
 
